@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": false,
+    "sourceMap": true,
+    "target": "ES5"
+  },
+  "files": [
+    "typings/node/node.d.ts",
+    "typings/phantom/phantom.d.ts",
+    "main.ts"
+  ]
+}

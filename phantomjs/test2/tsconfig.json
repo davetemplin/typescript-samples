@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": false,
+    "removeComments": true,
+    "preserveConstEnums": false,
+    "sourceMap": true,
+    "target": "ES6"
+  },
+  "files": [
+    "typings/node/node.d.ts",
+    "phantom-ts-async.ts",
+    "main.ts"
+  ]
+}
